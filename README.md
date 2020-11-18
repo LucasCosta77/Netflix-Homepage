@@ -11,3 +11,4 @@
 - Index.html
 - css(style, responsive e owl)
 - js(setup, owl)
+- img(imagens utilizadas no projeto)
